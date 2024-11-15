@@ -1,5 +1,6 @@
 {
   "name": "tseslint-8.14.0-bug",
+  "description": "Repository reproducing a crash in typescript-eslint v8.14.0",
   "version": "0.1.0",
   "main": "index.js",
   "author": "ext4cats <ext4cats@farmarrays.com>",
