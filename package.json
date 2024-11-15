@@ -1,0 +1,24 @@
+{
+  "name": "tseslint-8.14.0-bug",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "ext4cats <ext4cats@farmarrays.com>",
+  "license": "ISC",
+  "private": true,
+  "packageManager": "pnpm@9.13.2+sha512.88c9c3864450350e65a33587ab801acf946d7c814ed1134da4a924f6df5a2120fd36b46aab68f7cd1d413149112d53c7db3a4136624cfd00ff1846a0c6cef48a",
+  "engines": {
+    "node": "22.11.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint index.js"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "@tsconfig/node22": "^22.0.0",
+    "@types/node": "^22.9.0",
+    "eslint": "^9.15.0",
+    "typescript": "^5.6.3",
+    "typescript-eslint": "^8.14.0"
+  }
+}
